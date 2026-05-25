@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://bsv7axbnbery7"]
+
+[node name="Node2D" type="Node2D" unique_id=1385480672]
+
+[node name="TextEdit" type="TextEdit" parent="." unique_id=1345428673]
+offset_right = 1101.0
+offset_bottom = 576.0
+text = "Game Here"
